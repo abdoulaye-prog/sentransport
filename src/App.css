@@ -8,3 +8,8 @@
   max-width: 800px;
   margin: 0 auto;
 }
+.resultat-recherche {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+  margin: 10px 0;
+}
